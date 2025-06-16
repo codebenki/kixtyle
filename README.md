@@ -1,4 +1,4 @@
-# Show Browsing Web App
+# Shoe Browsing Web App
 
 # Made with Vite + React + TS
 
